@@ -1,0 +1,81 @@
+.App-header {
+    background-color: #7f7ff7;
+    font-size: calc(10px + 2vmin);
+    color: white;
+    padding-top: 2em;
+    padding-bottom: 2em;
+    text-align: center;
+  }
+  
+  .App-link {
+    color: #61dafb;
+  }
+  
+  .headshot {
+    border-radius: 50%;
+    background-color: rgba(0,0,0,.2);
+    padding: 0.2em;
+  }
+  
+  .name {
+    font-family: Arial;
+  }
+  
+  .links {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+  }
+  
+  .link-header {
+    margin-left: 1.5em;
+    margin-right: 1.5em;
+    margin-bottom: 1em;
+    display: flex;
+    flex-direction: column;
+  }
+  
+  .link-header-text {
+    margin-bottom: 0.25em;
+  }
+  
+  .git-logo {
+    width: 40%;
+    height: auto;
+    border-radius: 50%;
+  }
+  
+  .git-logo:hover {
+    background:#5d5df1;
+  }
+  
+  .linkedin-logo {
+    width: 40%;
+    height: auto;
+    border-radius: 5%;
+  }
+  
+  .linkedin-logo:hover {
+    background:#5d5df1;
+  }
+
+  .email-logo {
+    width: 40%;
+    height: auto;
+    border-radius: 10%;
+    margin-top: 0.2em;
+  }
+
+  .email-logo:hover {
+    background:#5d5df1;
+  }
+
+  .document-logo {
+    width: 40%;
+    height: auto;
+    border-radius: 15%;
+  }
+
+  .document-logo:hover {
+    background:#5d5df1;
+  }
