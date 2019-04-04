@@ -6,6 +6,8 @@
     margin: 0 0 10px;
     padding: 0;
     background-color: #7f7ff7;
+    display: flex;
+    justify-content: center;
   }
   
   .react-tabs__tab {
@@ -22,6 +24,10 @@
     border-bottom-right-radius: 0px;
     border-bottom-left-radius: 0px;
     color: white;
+    width: 25%;
+    text-align: center;
+    padding-top: 1em;
+    padding-bottom: 1em;
   }
   
   .react-tabs__tab--selected {
