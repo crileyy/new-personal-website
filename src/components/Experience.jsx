@@ -1,7 +1,8 @@
 import React from 'react';
+import './Experience.css';
 
 export const Experience = ({ title, company, location, timePeriod, bullets }) => {
-  return <div>
+  return <div className="experience">
     <span>{title}</span>
     <span>{company}</span>
     <span>{location}</span>

@@ -55,7 +55,11 @@
     left: -4px;
     right: -4px;
     bottom: -5px;
-    background: #fff;
+    background: whitesmoke;
+  }
+
+  .react-tabs__tab:hover {
+    background-color: #5d5df1;
   }
   
   .react-tabs__tab-panel {
