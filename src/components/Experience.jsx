@@ -3,7 +3,7 @@ import './Experience.css';
 
 export const Experience = ({ title, company, location, timePeriod, bullets }) => {
   return <div className="experience">
-    <span>{title}</span>
+    <h3 className="title">{title}</h3>
     <span>{company}</span>
     <span>{location}</span>
     <span>{timePeriod}</span>

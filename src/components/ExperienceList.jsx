@@ -17,8 +17,8 @@ const bullets1 = [
 
 const title2 = 'Software Engineer Co-op';
 const company2 = 'Intuit';
-const location2 = 'Mountain View, California';
-const timePeriod2 = 'January 2019 - May 2019';
+const location2 = 'San Diego, California';
+const timePeriod2 = 'January 2018 - August 2018';
 const bullets2 = [
   'Rebuilt the core backend micro-service used in the majority of TurboTax Online testing using Spring Boot and Java and deployed it in AWS with a CI/CD pipeline, allowing the team to develop faster',
   'Built multiple APIs and wrote service code for an internal tool, increasing testing efficiency and shortening the release time for developers to 45 minutes, using Java, Kotlin, and Spring Boot',
@@ -35,7 +35,7 @@ const timePeriod3 = 'September 2019 - December 2019';
 const bullets3 = [];
 
 const title4 = 'Software Engineer Co-op';
-const company4 = 'Asics';
+const company4 = 'ASICS';
 const location4 = 'Boston, Massachusetts';
 const timePeriod4 = 'May 2019 - September 2019';
 const bullets4 = [];
@@ -45,9 +45,9 @@ const company5 = 'Northeastern University';
 const location5 = 'Boston, Massachusetts';
 const timePeriod5 = 'May 2017 - December 2018';
 const bullets5 = [
-  'Instruct and lead 20 person labs that met twice a week for 2 hours',
-  'Hold office hours 2 times a week for 2 hours to answer student questions and provide assistance',
-  'Grade students’ Java and ACL2s coding assignments, midterm, and final exam'
+  'Instructed and lead 20 person labs that met twice a week for 2 hours',
+  'Held office hours 2 times a week for 2 hours to answer student questions and provide assistance',
+  'Graded students’ Java and ACL2s coding assignments, midterm, and final exam'
 ];
 
 export const ExperienceList = () => {
