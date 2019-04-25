@@ -8,10 +8,10 @@ const company1 = 'Intuit';
 const location1 = 'Mountain View, California';
 const timePeriod1 = 'January 2019 - May 2019';
 const bullets1 = [
-  'Completed research to improve frontend performance of QuickBooks Online Payroll',
-  'Developed 5 strategies to improve frontend performance that the team followed for 2 months',
+  'Completed research to improve frontend performance of QuickBooks Online Payroll using Chrome developer tools and WebPageTest',
+  'Developed 5 strategies to improve frontend performance that the team followed for a month (bundle and minify js and css, only include css that the page is actually using, defer the download of non-critical resources, add a pr hook to check the complexity of js which reduce the time spent parsing, compiling, and executing js, decrease the time to first byte, removing unnecessary resources)',
   'Created a Yeoman generator that set up a base Payroll UI component for developers',
-  'Decomposed the UI monolith for tax center in payroll using React and JavaScript',
+  'Decomposed the UI monolith for tax center in Payroll using React and JavaScript',
   'Built a new authentication experience using React and JavaScript'
 ];
 

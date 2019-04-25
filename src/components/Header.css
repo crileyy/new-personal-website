@@ -1,3 +1,5 @@
+@import url('https://fonts.googleapis.com/css?family=Muli|Roboto|Roboto+Mono');
+
 .App-header {
     background-color: #7f7ff7;
     font-size: calc(10px + 2vmin);
@@ -18,7 +20,11 @@
   }
   
   .name {
-    font-family: sans-serif;
+    font-family: 'Muli', sans-serif;
+  }
+
+  .description {
+    font-family: 'Roboto', sans-serif;
   }
   
   .links {
@@ -37,6 +43,7 @@
   
   .link-header-text {
     margin-bottom: 0.25em;
+    font-family: 'Roboto Mono', monospace;
   }
   
   .git-logo {

@@ -9,9 +9,9 @@ export const Body = () => {
   return <div className="App-body">
     <Tabs>
       <TabList>
-        <Tab>Experience</Tab>
-        <Tab>Projects</Tab>
-        <Tab>Music</Tab>
+        <Tab><span className="tab-exp">Experience</span></Tab>
+        <Tab><span className="tab-proj">Projects</span></Tab>
+        <Tab><span className="tab-music">Music</span></Tab>
       </TabList>
 
       <TabPanel>

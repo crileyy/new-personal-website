@@ -1,5 +1,22 @@
+@import url('https://fonts.googleapis.com/css?family=Source+Sans+Pro');
+
 .react-tabs {
     -webkit-tap-highlight-color: transparent;
+  }
+
+  .tab-exp {
+    font-family: 'Source Sans Pro', sans-serif;
+    font-size: calc(4px + 2vmin);
+  }
+
+  .tab-proj {
+    font-family: 'Source Sans Pro', sans-serif;
+    font-size: calc(4px + 2vmin);
+  }
+
+  .tab-music {
+    font-family: 'Source Sans Pro', sans-serif;
+    font-size: calc(4px + 2vmin);
   }
   
   .react-tabs__tab-list {
